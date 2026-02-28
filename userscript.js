@@ -117,11 +117,11 @@ setTimeout((function() {
                 window.glideSlope = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/oglideslope.wav');
                 window.tooLowFlaps = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/otoo-low_flaps.wav');
                 window.tooLowGear = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/otoo-low_gear.wav');
-                window.apDisconnect = new Audio('https://github.com/ISA1716/GeoFS-GPWS-Alarms-and-Callouts/blob/main/Boeing%20Autopilot%20Disengage.mp3#:~:text=Raw-,View%20raw,-GeoFS%2DGPWS%2DAlarms');
+                window.apDisconnect = new Audio('file:///C:/Users/mzach/Downloads/Boeing%20Autopilot%20Disengage.mp3');
                 window.minimumBaro = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/ominimums.wav');
-                window.dontSink = new Audio('https://github.com/ISA1716/GeoFS-GPWS-Alarms-and-Callouts/raw/refs/heads/main/Sink%20Rate%20Pull%20Up%20Boeing.mp3');
-                window.masterA = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/bmasterAlarm.wav');
-                window.bankAngle = new Audio('https://github.com/ISA1716/GeoFS-GPWS-Alarms-and-Callouts/raw/refs/heads/main/Bank%20Angle%20Boeing.mp3');
+                window.dontSink = new Audio('file:///C:/Users/mzach/Downloads/Pull%20Up%20Boeing.mp3');
+                window.masterA = new Audio('file:///C:/Users/mzach/Downloads/pmdg_777_masterwarning.mp3');
+                window.bankAngle = new Audio('file:///C:/Users/mzach/Downloads/Bank%20Angle%20Boeing.mp3');
                 window.overspeed = new Audio('https://github.com/ISA1716/GeoFS-GPWS-Alarms-and-Callouts/raw/refs/heads/main/Boeing%20Overspeed%20Alarm.mp3');
                 window.masterA.loop = true;
                 window.bankAngle.loop = true;
@@ -141,7 +141,7 @@ setTimeout((function() {
                 window.a20 = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/b20.wav');
                 window.a10 = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/b10.wav');
                 window.a5 = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/b5.wav');
-                window.stall = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/bstall.wav');
+                window.stall = new Audio('file:///C:/Users/mzach/Downloads/Boeing%20737%20Stall%20Alarm.mp3');
                 window.glideSlope = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/bglideslope.wav');
                 window.tooLowFlaps = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/btoo-low_flaps.wav');
                 window.tooLowGear = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/btoo-low_gear.wav');
