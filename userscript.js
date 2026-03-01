@@ -119,7 +119,7 @@ setTimeout((function() {
                 window.tooLowGear = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/otoo-low_gear.wav');
                 window.apDisconnect = new Audio('https://bruh0000-sad.github.io/Just-some-stall-sound/Voicy_Boeing%20737%20autopilot%20disconnect%20alarm.mp3');
                 window.minimumBaro = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/ominimums.wav');
-                window.dontSink = new Audio('https://bruh0000-sad.github.io/Just-some-stall-sound/Pull%20Up%20Boeing.mp3');
+                window.dontSink = new Audio('https://bruh0000-sad.github.io/Just-some-stall-sound/boeing-747-pull-up-400-f.mp3');
                 window.masterA = new Audio('https://bruh0000-sad.github.io/Just-some-stall-sound/pmdg_777_masterwarning.mp3');
                 window.bankAngle = new Audio('https://bruh0000-sad.github.io/Just-some-stall-sound/Bank%20Angle%20Boeing.mp3');
                 window.overspeed = new Audio('https://github.com/ISA1716/GeoFS-GPWS-Alarms-and-Callouts/raw/refs/heads/main/Boeing%20Overspeed%20Alarm.mp3');
