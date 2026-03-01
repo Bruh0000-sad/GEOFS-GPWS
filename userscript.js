@@ -148,7 +148,7 @@ setTimeout((function() {
                 window.apDisconnect = new Audio('https://bruh0000-sad.github.io/Just-some-stall-sound/Boeing%20Autopilot%20Disengage.mp3');
                 window.minimumBaro = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/bminimums.wav');
                 window.dontSink = new Audio('https://bruh0000-sad.github.io/Just-some-stall-sound/Pull%20Up%20Boeing.mp3');
-                window.masterA = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/bmasterAlarm.wav');
+                window.masterA = new Audio('https://bruh0000-sad.github.io/Just-some-stall-sound/pmdg_777_masterwarning.mp3');
                 window.bankAngle = new Audio('https://bruh0000-sad.github.io/Just-some-stall-sound/Bank%20Angle%20Boeing.mp3');
                 window.overspeed = new Audio('https://github.com/ISA1716/GeoFS-GPWS-Alarms-and-Callouts/raw/refs/heads/main/Boeing%20Overspeed%20Alarm.mp3');
                 window.masterA.loop = true;
