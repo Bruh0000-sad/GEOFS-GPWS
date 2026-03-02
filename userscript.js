@@ -113,7 +113,7 @@ setTimeout((function() {
                 window.a20 = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/o20.wav');
                 window.a10 = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/o10.wav');
                 window.a5 = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/b5.wav');
-                window.stall = new Audio('https://bruh0000-sad.github.io/Just-some-stall-sound/Boeing%20737%20Stall%20Alarm.mp3');
+                window.stall = new Audio('https://bruh0000-sad.github.io/Just-some-stall-sound/boeing-stick-shaker.mp3');
                 window.glideSlope = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/oglideslope.wav');
                 window.tooLowFlaps = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/otoo-low_flaps.wav');
                 window.tooLowGear = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/otoo-low_gear.wav');
@@ -141,7 +141,7 @@ setTimeout((function() {
                 window.a20 = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/b20.wav');
                 window.a10 = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/b10.wav');
                 window.a5 = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/b5.wav');
-                window.stall = new Audio('https://bruh0000-sad.github.io/Just-some-stall-sound/Boeing%20737%20Stall%20Alarm.mp3');
+                window.stall = new Audio('https://bruh0000-sad.github.io/Just-some-stall-sound/boeing-stick-shaker.mp3');
                 window.glideSlope = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/bglideslope.wav');
                 window.tooLowFlaps = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/btoo-low_flaps.wav');
                 window.tooLowGear = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/btoo-low_gear.wav');
