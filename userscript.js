@@ -117,7 +117,7 @@ setTimeout((function() {
                 window.glideSlope = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/oglideslope.wav');
                 window.tooLowFlaps = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/otoo-low_flaps.wav');
                 window.tooLowGear = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/otoo-low_gear.wav');
-                window.apDisconnect = new Audio('https://bruh0000-sad.github.io/Just-some-stall-sound/Voicy_Boeing%20737%20autopilot%20disconnect%20alarm.mp3');
+                window.apDisconnect = new Audio('https://bruh0000-sad.github.io/Just-some-stall-sound/ap-disconnect-boeing.mp3');
                 window.minimumBaro = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/ominimums.wav');
                 window.dontSink = new Audio('https://bruh0000-sad.github.io/Just-some-stall-sound/boeing-747-pull-up-400-f.mp3');
                 window.masterA = new Audio('https://bruh0000-sad.github.io/Just-some-stall-sound/pmdg_777_masterwarning.mp3');
@@ -145,7 +145,7 @@ setTimeout((function() {
                 window.glideSlope = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/bglideslope.wav');
                 window.tooLowFlaps = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/btoo-low_flaps.wav');
                 window.tooLowGear = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/btoo-low_gear.wav');
-                window.apDisconnect = new Audio('https://bruh0000-sad.github.io/Just-some-stall-sound/Voicy_Boeing%20737%20autopilot%20disconnect%20alarm.mp3');
+                window.apDisconnect = new Audio('https://bruh0000-sad.github.io/Just-some-stall-sound/ap-disconnect-boeing.mp3');
                 window.minimumBaro = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/bminimums.wav');
                 window.dontSink = new Audio('https://bruh0000-sad.github.io/Just-some-stall-sound/Pull%20Up%20Boeing.mp3');
                 window.masterA = new Audio('https://bruh0000-sad.github.io/Just-some-stall-sound/pmdg_777_masterwarning.mp3');
