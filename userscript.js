@@ -97,7 +97,7 @@ setTimeout((function() {
                 window.justPaused = false;
             }
             window.willTheDoorFallOff = geofs.aircraft.instance.aircraftRecord.name.includes("Boeing");
-            window.isAsOldAsYourMom = geofs.aircraft.instance.aircraftRecord.name.includes("757") || geofs.aircraft.instance.aircraftRecord.name.includes("767");
+            window.isAsOldAsYourMom = geofs.aircraft.instance.aircraftRecord.name.includes("757") || geofs.aircraft.instance.aircraftRecord.name.includes("767") || geofs.aircraft.instance.aircraftRecord.name.includes("747-8i")
             if (window.isAsOldAsYourMom && !window.wasAsOldAsYourMom) {
                 window.a2500 = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/b2500.wav');
                 window.a2000 = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/b2000.wav');
