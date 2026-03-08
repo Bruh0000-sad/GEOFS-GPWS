@@ -96,9 +96,10 @@ setTimeout((function() {
             if (window.justPaused) {
                 window.justPaused = false;
             }
-            window.willTheDoorFallOff = geofs.aircraft.instance.aircraftRecord.name.includes("Boeing");
-            window.isAsOldAsYourMom = geofs.aircraft.instance.aircraftRecord.name.includes("757") || geofs.aircraft.instance.aircraftRecord.name.includes("767") || geofs.aircraft.instance.aircraftRecord.name.includes("747-8i") || geofs.aircraft.instance.aircraftRecord.name.includes("747-100");
-            if (window.isAsOldAsYourMom && !window.wasAsOldAsYourMom) {
+            window.willTheDoorFallOff = geofs.aircraft.instance.aircraftRecord.name.includes("737") || geofs.aircraft.instance.aircraftRecord.name.includes("777") || geofs.aircraft.instance.aircraftRecord.name.includes("787") || geofs.aircraft.instance.aircraftRecord.name.includes("MD-11");
+            window.isAsOldAsYourMom = geofs.aircraft.instance.aircraftRecord.name.includes("757") || geofs.aircraft.instance.aircraftRecord.name.includes("767") || geofs.aircraft.instance.aircraftRecord.name.includes("747");
+            if (window.isAsOldAsYourMom && !window.wasAsOldAsYourMom) { 
+            if (window.isAsOldAsYourMom && !window.wasAsOldAsYourMom) { 
                 window.a2500 = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/b2500.wav');
                 window.a2000 = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/b2000.wav');
                 window.a1000 = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/o1000.wav');
@@ -373,7 +374,7 @@ setTimeout((function() {
         }
         window.wasAPOn = geofs.autopilot.on;
         window.didAWheelFall = window.willTheDoorFallOff;
-        window.wasAsOldAsYourMom = geofs.aircraft.instance.aircraftRecord.name.includes("757") || geofs.aircraft.instance.aircraftRecord.name.includes("767");
+        window.wasAsOldAsYourMom = geofs.aircraft.instance.aircraftRecord.name.includes("757") || geofs.aircraft.instance.aircraftRecord.name.includes("767") || geofs.aircraft.instance.aircraftRecord.name.includes("747");
     }
 
     // Update flight data display every 100ms
