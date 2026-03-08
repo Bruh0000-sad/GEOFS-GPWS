@@ -3,7 +3,7 @@
 // @namespace    https://github.com/tylerbmusic/GeoFS-GPWS-Callouts
 // @version      1.3
 // @description  Adds some GPWS callouts
-// @author       GGamerGGuy
+// @author       GGamerGGuy, edited by Bruh000-sad (GEOFS-GUY)
 // @match        https://www.geo-fs.com/geofs.php?v=*
 // @match        https://*.geo-fs.com/geofs.php*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=geo-fs.com
