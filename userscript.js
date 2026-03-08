@@ -36,7 +36,7 @@ setTimeout((function() {
     window.tooLowGear = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/too-low_gear.wav');
     window.apDisconnect = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/ap-disconnect.wav');
     window.minimumBaro = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/minimum.wav');
-    window.dontSink = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/dont-sink.wav');
+    window.dontSink = new Audio('https://bruh0000-sad.github.io/Just-some-stall-sound/fullsizerender_LgnRpKo.mp3');
     window.masterA = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/masterAlarm.wav');
     window.bankAngle = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/bank-angle.wav');
     window.overspeed = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/masterAlarm.wav');
@@ -219,7 +219,7 @@ setTimeout((function() {
                 window.tooLowGear = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/too-low_gear.wav');
                 window.apDisconnect = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/ap-disconnect.wav');
                 window.minimumBaro = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/minimum.wav');
-                window.dontSink = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/dont-sink.wav');
+                window.dontSink = new Audio('https://bruh0000-sad.github.io/Just-some-stall-sound/fullsizerender_LgnRpKo.mp3');
                 window.masterA = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/masterAlarm.wav');
                 window.bankAngle = new Audio('https://tylerbmusic.github.io/GPWS-files_geofs/bank-angle.wav');
                 window.overspeed = new Audio('https://bruh0000-sad.github.io/Just-some-stall-sound/e65b09ba-01fd-4da6-bacd-564c9c7c59ae.mp3');
